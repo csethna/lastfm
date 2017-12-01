@@ -30,6 +30,6 @@ I took a data science approach to this activity. Using data I have been building
 ### 2012
 1. [The Menzingers — Casey](https://www.youtube.com/watch?v=ntY0Qf1j3FY)
 - [Acoustic version](https://www.youtube.com/watch?v=3yieSXT5nvo)
-2. The Menzingers — The Obituaries
-3. The Menzingers - Gates
+2. The Menzingers — The Obituaries *skipped for diversity*
+3. The Menzingers - Gates *skipped for diversity*
 4. [The Dopamines - Public Domain](https://www.youtube.com/watch?v=kI_n3flJDL0)
